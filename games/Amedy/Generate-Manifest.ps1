@@ -1,6 +1,6 @@
 param(
     [string]$RootDir = "./build",
-    [string]$OutputFile = "./build/manifest.json"
+    [string]$OutputFile = "./manifest.json"
 )
 
 $root = (Resolve-Path $RootDir).Path

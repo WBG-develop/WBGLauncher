@@ -5,10 +5,6 @@
                       "Sha256":  "c7e054edf3cd28b374e29139288d6d3cb0077a75f677ebd0dea5ebdd91c53607"
                   },
                   {
-                      "Path":  "steam_appid.txt",
-                      "Sha256":  "ddfe0e8d462af661f81db36589c39882dc0f2330785b5d80cd34f2f520ad618f"
-                  },
-                  {
                       "Path":  "UnityCrashHandler64.exe",
                       "Sha256":  "316ce94dfb0c883fc0639e620168d81529d9458c4bfe258d5eae31fc2b351729"
                   },
@@ -21,20 +17,16 @@
                       "Sha256":  "81adcfd8253c3489be720da7e30f16004dc9a1f02a8b418c6c3aef4993032e6d"
                   },
                   {
-                      "Path":  "Amedy_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
-                      "Sha256":  "654b404bd499cc61a4bbe9a66cbf47d8ae95ee1577b0290eb331d2ed4ef0b330"
-                  },
-                  {
                       "Path":  "Amedy_Data/app.info",
                       "Sha256":  "94e5bb77d243545e433a2b9458cb509cb64de523014f8c297ac9ff23a8221b9d"
                   },
                   {
                       "Path":  "Amedy_Data/boot.config",
-                      "Sha256":  "65d6bca2e8f91dfcd91154c18051250478b318874cf00fdb7279315ababbbeef"
+                      "Sha256":  "71a68957804490de9527a1a6f635d006029ee56aa21ebca6436bb73e673f6b92"
                   },
                   {
                       "Path":  "Amedy_Data/globalgamemanagers",
-                      "Sha256":  "a35e32f6a1f4ad4f309c5cdad0ce1e2d6f13c6bfcc983651fb7f4948ffd3e140"
+                      "Sha256":  "5a39628c4cf209a0bbcaa141622a71a13ca44c196ab755428b53659563dfe444"
                   },
                   {
                       "Path":  "Amedy_Data/globalgamemanagers.assets",
@@ -62,7 +54,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/resources.assets",
-                      "Sha256":  "29624f9a40d18d80681a09487926763c01f8c5879fc2c895f81124fe0ee3cc11"
+                      "Sha256":  "e37ebebdbf227a385c08942c986cd8100814d39176294a4d94191f24329ce82c"
                   },
                   {
                       "Path":  "Amedy_Data/resources.assets.resS",
