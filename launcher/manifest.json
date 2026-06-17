@@ -25,16 +25,8 @@
                       "Sha256":  "32ea2d0ce3512e74f1c7ad82591fe67e6b8939d76a8a4ff9c93ead030131e71c"
                   },
                   {
-                      "Path":  "settings.json",
-                      "Sha256":  "8c788769cafa07f69f0f2eb44c76b9bd4dbdf605335369006573ba3b0ad0239d"
-                  },
-                  {
                       "Path":  "SevenZip.dll",
                       "Sha256":  "f80c92ce064a19d514cdaaf1838244f203c188462d26119df7b408291d68f8b8"
-                  },
-                  {
-                      "Path":  "user.json",
-                      "Sha256":  "9f5cd47f05b49bbd5b42b952fea06729326916e655178e861602473524728859"
                   },
                   {
                       "Path":  "WBGLauncher.deps.json",
