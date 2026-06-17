@@ -1,0 +1,60 @@
+﻿{
+    "Files":  [
+                  {
+                      "Path":  "CmlLib.Core.Commons.dll",
+                      "Sha256":  "adcbc3edd7f983f1f7cdbfe687e80ddb00fe05c3375c947b2dd1a0cfbc653279"
+                  },
+                  {
+                      "Path":  "CmlLib.Core.dll",
+                      "Sha256":  "ccb7d5d525ecaa9bfafa95462eb1b3cc9a46901784c7891d6bc9376e5abf4dba"
+                  },
+                  {
+                      "Path":  "CmlLib.Core.Installer.Forge.dll",
+                      "Sha256":  "418c12ccca3ff80e3afa00b90b8a1481e9d619a925af353b5f4c2322e3e999af"
+                  },
+                  {
+                      "Path":  "CmlLib.Core.Installer.NeoForge.dll",
+                      "Sha256":  "422f31462b1851ec71c0db47249332ebe931e130ec17526cbea2ad3668266d3c"
+                  },
+                  {
+                      "Path":  "HtmlAgilityPack.dll",
+                      "Sha256":  "83a5de40f358a2ba274996f4e33c16f80a8cdc75025eeccfcfba533c8aeafc78"
+                  },
+                  {
+                      "Path":  "ICSharpCode.SharpZipLib.dll",
+                      "Sha256":  "32ea2d0ce3512e74f1c7ad82591fe67e6b8939d76a8a4ff9c93ead030131e71c"
+                  },
+                  {
+                      "Path":  "settings.json",
+                      "Sha256":  "8c788769cafa07f69f0f2eb44c76b9bd4dbdf605335369006573ba3b0ad0239d"
+                  },
+                  {
+                      "Path":  "SevenZip.dll",
+                      "Sha256":  "f80c92ce064a19d514cdaaf1838244f203c188462d26119df7b408291d68f8b8"
+                  },
+                  {
+                      "Path":  "user.json",
+                      "Sha256":  "9f5cd47f05b49bbd5b42b952fea06729326916e655178e861602473524728859"
+                  },
+                  {
+                      "Path":  "WBGLauncher.deps.json",
+                      "Sha256":  "1150931937da85f4e29ff839a233341d866c410830b6d50c4b9ad90cbace763b"
+                  },
+                  {
+                      "Path":  "WBGLauncher.dll",
+                      "Sha256":  "f067d8ce025146839b452cf8c87af3a597da4a9b2cb2ca9ba429070e1081d631"
+                  },
+                  {
+                      "Path":  "WBGLauncher.exe",
+                      "Sha256":  "e32fd98d64035f2830d0eb04e9089927d3683195d15765819d5dbba2c18fc871"
+                  },
+                  {
+                      "Path":  "WBGLauncher.pdb",
+                      "Sha256":  "c56da4852c71fb526c3755853f9894da724a1574e08e2ce0c6e1567e3c227715"
+                  },
+                  {
+                      "Path":  "WBGLauncher.runtimeconfig.json",
+                      "Sha256":  "039a0defb81019310fa2e8a17ef8d2ad086b1a37656149aa598f1f75893f2a22"
+                  }
+              ]
+}
