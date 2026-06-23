@@ -34,7 +34,7 @@
                   },
                   {
                       "Path":  "WBGLauncher.dll",
-                      "Sha256":  "f067d8ce025146839b452cf8c87af3a597da4a9b2cb2ca9ba429070e1081d631"
+                      "Sha256":  "81839a448cd08bb8528fefc958083e8c85356c691200f783a45e7d62844b406a"
                   },
                   {
                       "Path":  "WBGLauncher.exe",
@@ -42,7 +42,7 @@
                   },
                   {
                       "Path":  "WBGLauncher.pdb",
-                      "Sha256":  "c56da4852c71fb526c3755853f9894da724a1574e08e2ce0c6e1567e3c227715"
+                      "Sha256":  "94c38d6e65a0bb16e43240662a04b38feea11d68759959d5a8b588a4ca4bd609"
                   },
                   {
                       "Path":  "WBGLauncher.runtimeconfig.json",
