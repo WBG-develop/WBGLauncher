@@ -5,6 +5,10 @@
                       "Sha256":  "c7e054edf3cd28b374e29139288d6d3cb0077a75f677ebd0dea5ebdd91c53607"
                   },
                   {
+                      "Path":  "steam_appid.txt",
+                      "Sha256":  "ddfe0e8d462af661f81db36589c39882dc0f2330785b5d80cd34f2f520ad618f"
+                  },
+                  {
                       "Path":  "UnityCrashHandler64.exe",
                       "Sha256":  "316ce94dfb0c883fc0639e620168d81529d9458c4bfe258d5eae31fc2b351729"
                   },
