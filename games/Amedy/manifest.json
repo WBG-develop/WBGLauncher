@@ -2,7 +2,7 @@
     "Files":  [
                   {
                       "Path":  "Amedy.exe",
-                      "Sha256":  "c7e054edf3cd28b374e29139288d6d3cb0077a75f677ebd0dea5ebdd91c53607"
+                      "Sha256":  "a30757fdaced5b2b01a43651642425666cf958f9671c42aea4a5837369535d33"
                   },
                   {
                       "Path":  "steam_appid.txt",
@@ -10,11 +10,11 @@
                   },
                   {
                       "Path":  "UnityCrashHandler64.exe",
-                      "Sha256":  "316ce94dfb0c883fc0639e620168d81529d9458c4bfe258d5eae31fc2b351729"
+                      "Sha256":  "e4b431aade01926a3088360ae2f2f7789f70ac5f8ea60f5d3bd14bc93119dfe6"
                   },
                   {
                       "Path":  "UnityPlayer.dll",
-                      "Sha256":  "aaceafd390ea6835ca3e687599a4ca8e02f8692c48ea1eac3661086f2da129a2"
+                      "Sha256":  "0391df1b36e6b9edd3e9a5e5f67a5a3d92fa34057a22c7f9a37d827d7594ef78"
                   },
                   {
                       "Path":  "WinPixEventRuntime.dll",
@@ -22,7 +22,7 @@
                   },
                   {
                       "Path":  "Amedy_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
-                      "Sha256":  "654b404bd499cc61a4bbe9a66cbf47d8ae95ee1577b0290eb331d2ed4ef0b330"
+                      "Sha256":  "61a990812720e7d4c0bfb9fcb14887d8cf96fbdf182f54ae8c8802e4418c4fc0"
                   },
                   {
                       "Path":  "Amedy_Data/app.info",
@@ -30,39 +30,39 @@
                   },
                   {
                       "Path":  "Amedy_Data/boot.config",
-                      "Sha256":  "00c20c2c7a77e3470be2329b0bb9e00e490eabc77fbb314b38ec057dfa7ee189"
+                      "Sha256":  "5074fbfb840c102a2c6313b4d877cec04a8f93da84e22eccecc6dd63b560d321"
                   },
                   {
                       "Path":  "Amedy_Data/globalgamemanagers",
-                      "Sha256":  "1c5e330845b27065576bbf57633e18cff8ab4da77ff1bc3b2ac382495731c27d"
+                      "Sha256":  "4db7822f24b06493a6a03b88bcc19a0bf02366a4433b67e13cc9a4c5d87cdcf0"
                   },
                   {
                       "Path":  "Amedy_Data/globalgamemanagers.assets",
-                      "Sha256":  "fa41d5a89587eb96ec6af02f5d9b7117178d0ac475418fbb7512aa0d200d4d8e"
+                      "Sha256":  "2674436196ad7b4702072730fe7ca0705aa1220e0796b9d9bf3c8e7446c30f72"
                   },
                   {
                       "Path":  "Amedy_Data/globalgamemanagers.assets.resS",
-                      "Sha256":  "9d5cd592a38d46bd823a36366b1f5b84cf0a2b3ace58dec6a6374ca0d50fe6ec"
+                      "Sha256":  "f2e891f1a2eca090fd71651b299b57c89b6f16599aee6dd338e290ba791e314b"
                   },
                   {
                       "Path":  "Amedy_Data/level0",
-                      "Sha256":  "87ab5b77c54a3f9b6303fcbd8bfc426fce8c2a6443ad64547d73d7384117d330"
+                      "Sha256":  "8e003c65147aa1edaba6ecae953726fbbe843eae8b1c4a02f023a72b6c4e7b64"
                   },
                   {
                       "Path":  "Amedy_Data/level1",
-                      "Sha256":  "19d688de65de9f6d95bffb333f7e18bb2820b90f549f745d7b33ace77747e42c"
+                      "Sha256":  "70383988966100cfbc87bec6ec8562db137aa39749420eb7a415790f003a1bbb"
                   },
                   {
                       "Path":  "Amedy_Data/level2",
-                      "Sha256":  "bbde873950730a7a1cffc12b895f9e48dc4a78750fe9f827266a29a9db7a3cfd"
+                      "Sha256":  "4b18b04cac7d593cd5c0b26343efdd1f7d69a416a5053d33067dbb05d425d90e"
                   },
                   {
                       "Path":  "Amedy_Data/level3",
-                      "Sha256":  "2b5ba24e2aeaa04303e139bdf41f4c7bb30e8867a75f626f1abb960d82941ee4"
+                      "Sha256":  "108f3187c6ccdab954f939575d030559f2134ea3396906e7f42ec2d170fbe167"
                   },
                   {
                       "Path":  "Amedy_Data/resources.assets",
-                      "Sha256":  "efee501a2758933c1c9d5b338986b5ea7028cb4c05d493a0da03808bbb4e7fc7"
+                      "Sha256":  "205d2b2be1e97fcf958755d4c82745ab4f16a61f5ab92ed1e19cc8ad783afbd8"
                   },
                   {
                       "Path":  "Amedy_Data/resources.assets.resS",
@@ -70,27 +70,31 @@
                   },
                   {
                       "Path":  "Amedy_Data/RuntimeInitializeOnLoads.json",
-                      "Sha256":  "c590e850f06c7175121e2a296b4c5f873a63ac60708f8d322a6811aeaa61d693"
+                      "Sha256":  "44a8e0af7790eb26c527dccda88be9b9bffc1f8e225c007128d8495a70806e02"
                   },
                   {
                       "Path":  "Amedy_Data/ScriptingAssemblies.json",
-                      "Sha256":  "2d3c6d7329573949c9905e7826596661d2016d59af9393c55ceb7dfa1f5a5b68"
+                      "Sha256":  "dd1102a28e04d68950d66ab8db5c81e1cac502547ed1b4fa17fe2a04e3306937"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets0.assets",
-                      "Sha256":  "b0083a3647d0b817c82628078a5ae0c7dc9ba479758d58f1b0fb9afea6f96239"
+                      "Sha256":  "e1327694b12af56976aac219275b15761494e625bb46319c32c22f55f227954d"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets0.assets.resS",
-                      "Sha256":  "d29b4f3e69d2c843c62fca16f2a1bd520fa0fbfba04595fc3aadbee4a077dfa8"
+                      "Sha256":  "5c297bd5281643851111accb030a33c4228c0ad28865ca15b75b4f2e5be95dda"
+                  },
+                  {
+                      "Path":  "Amedy_Data/sharedassets0.resource",
+                      "Sha256":  "5b83729534e700d04cf44fce763a850fdbe4f8854607b755f511d1e8c0adb0ed"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets1.assets",
-                      "Sha256":  "35fd1bd195eb8c69f113b7ab8ef4dee37f8d50b88a5b61aa02957fec5d326b56"
+                      "Sha256":  "07dafcd2ac921182acdc1933b4595d2730a14681d8680e4e43e1f98182d2a6b1"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets1.assets.resS",
-                      "Sha256":  "b7d8abd02abbd6dd6ae5963f34e40320532184442b608ecb6e86386b149e9b24"
+                      "Sha256":  "e69f9c095f0903e7eca13b7502730724fad7fe7aa456ce16a3935c8be9e61b29"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets1.resource",
@@ -98,11 +102,11 @@
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets2.assets",
-                      "Sha256":  "f4d19ad04e65a09f1b30f017287dd546e51b87acaeda9d173693f69a05f943c8"
+                      "Sha256":  "dfee84ae164e6448abb87fbc32d877785fe63b7c3a8e1975c2b598095b290756"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets2.assets.resS",
-                      "Sha256":  "7e5b63f0415d660d28af782b7f0ab05a35c7d357c5ded617662741032b61a3e1"
+                      "Sha256":  "2db9d0c61c656b54af87045da5dde5c191f2f7c27268e4461fa7c30dc1ea3b26"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets2.resource",
@@ -110,7 +114,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets3.assets",
-                      "Sha256":  "8665124af1038841a29ac5d1a87392b796071db43718a8433fb52d15ce0fb366"
+                      "Sha256":  "80c1b36fe88b851cf0fe7da7b3c95137046ed33373582c73a24d747ff4665876"
                   },
                   {
                       "Path":  "Amedy_Data/sharedassets3.assets.resS",
@@ -118,7 +122,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.BRW.dll",
-                      "Sha256":  "32d6449f8b71b873bf9f0c1c7e761d025e53d22505f87370fb3855e97cacadf6"
+                      "Sha256":  "f1fd6a4e3efc9e276866bdb8eda10b77bd061a5426665c45f30c347129b8653f"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.BRW.pdb",
@@ -126,7 +130,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniMic.Editor.dll",
-                      "Sha256":  "32870306ba25e26ea4d7d325ad793223ec68f84b99154bcbee846b2c1450ab6a"
+                      "Sha256":  "36d56102fed45ff19fe7928ca2fdeb76b54e21558b24d5181f9088afbce6b553"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniMic.Editor.pdb",
@@ -134,7 +138,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniMic.Runtime.dll",
-                      "Sha256":  "98dbb81f3672c3aa852be84d068d8b9b5e15354faae40a73de424abf1a5fdfec"
+                      "Sha256":  "9c58e6dfcdc77b4c7d1f908d58c297d1212ee3b81eb951f5017b2bb242a3487f"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniMic.Runtime.pdb",
@@ -142,7 +146,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniVoice.Runtime.dll",
-                      "Sha256":  "85d81f1f0ac1c6daee7149b324dd5cfefb8007ff6f2f0accb2de99a7277b3604"
+                      "Sha256":  "8a113649995500ef67b84e4c154a4e18e0951753bf93af7840e5141523e2dc4b"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniVoice.Runtime.pdb",
@@ -150,7 +154,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniVoice.Samples.dll",
-                      "Sha256":  "bcf75a090bd1eaa7f763e91cc2ea3613da7f2da973ff70d2768564a8e83e54da"
+                      "Sha256":  "084d58f195449516607acec84b4861bb200a139b36b99c8548faf61ebb88adf6"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Adrenak.UniVoice.Samples.pdb",
@@ -158,7 +162,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Assembly-CSharp-firstpass.dll",
-                      "Sha256":  "d5f3641970d6ef5e71f0b1c5ac7041e9d5c908152825145b2b66de075a26877a"
+                      "Sha256":  "0ac0efa8d7686e325241aa8978b657beb04178e1a6b5aa7686121b2f42090ec2"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Assembly-CSharp-firstpass.pdb",
@@ -166,7 +170,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Assembly-CSharp.dll",
-                      "Sha256":  "eb57ec13f87f851faa78341e0a7bdc2e6fca0873ad8dc0623777e23bc4882e25"
+                      "Sha256":  "89b247c457a565bd840127670a7a252cd64be61ae2e8d82b404d95f520fdcf46"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Assembly-CSharp.pdb",
@@ -174,7 +178,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/com.rlabrecque.steamworks.net.dll",
-                      "Sha256":  "8360cfe3da2f7f1b6dc29fdad94c12acaf6d7a72b63f1a2ce5ba82bb3268fdd2"
+                      "Sha256":  "06c2d8c2e97c38cbb7abe3192cd7bfe2306ffe2d2b3f2823729850aa1f033e9d"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/com.rlabrecque.steamworks.net.pdb",
@@ -182,7 +186,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Concentus-Unity.Runtime.dll",
-                      "Sha256":  "cccd55b74f14a6fe5a5aee8c2200fa11f6dedd58cd1110969a8f264d8f3648af"
+                      "Sha256":  "05033f8a6f9fc55d249be96738384cb9ebd153e2890e4a782aaa4ec7043c0995"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Concentus-Unity.Runtime.pdb",
@@ -210,7 +214,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/FizzySteamworks.dll",
-                      "Sha256":  "5d5f5c4dd700938cbc2432a3f8225c7417717b2e87206e8739c4ec260bc6e774"
+                      "Sha256":  "393e252eb1a05baab453088fbf5f6e4a1ab22b9dc6628bfb7612a8c773a82145"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/FizzySteamworks.pdb",
@@ -218,7 +222,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/kcp2k.dll",
-                      "Sha256":  "81ed63f7af3e924013cf4693ca504078c5efc4ec2b6d9304162d6e10bbbf208c"
+                      "Sha256":  "1390b8c99862d3feafbfd937adea859bd035f9f99621655596d67d30f28b78db"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/kcp2k.pdb",
@@ -226,7 +230,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Authenticators.dll",
-                      "Sha256":  "5b9b44dd5e7acdb51c2fba2949df9c64407c1bfb96ffab7e5defb56768026549"
+                      "Sha256":  "aed7a4339ac5f41d466715ef17e662d88c48d9230ac0a33f258ca8559eea19eb"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Authenticators.pdb",
@@ -238,7 +242,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Components.dll",
-                      "Sha256":  "ea394361e943a986eb0ff1fe0bf858db126e02b7431a8119fe0c603ed9ef25d8"
+                      "Sha256":  "1d312eed74cc556669f298759c6ea246973281773afc9e9996b86e80cc9d31c2"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Components.pdb",
@@ -246,11 +250,11 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.dll",
-                      "Sha256":  "c38cc3e51c263a93cf7f4ff0e003a8e48678798f73addb41bf979a14a8ca0918"
+                      "Sha256":  "b0d8d255b575cb425a64477c129ec978a38e2bc27efa1820fc0e5b3bf4d5e15f"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Examples.dll",
-                      "Sha256":  "99071a1516954ef34d992a0d2548d24d536661fc74cf8bdaadc0186f1af88011"
+                      "Sha256":  "cb6d0bee733b9e0a6976152a7e655871e7d6d701c144edca3532842bf5af1922"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Examples.pdb",
@@ -262,7 +266,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Transports.dll",
-                      "Sha256":  "df53efa360cab450ebebbf8614d4372e46310193f8946475fba0170324d87f4d"
+                      "Sha256":  "50ab653bb2aedc3785514f0b1994858bae47e949e4e76ba6a0756e4cdce62a6c"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Mirror.Transports.pdb",
@@ -290,7 +294,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/SimpleWebTransport.dll",
-                      "Sha256":  "aab8057289e2e8876b102d9b7a8961caea22f693da3427a9dcd4a280b55bd6fc"
+                      "Sha256":  "ccf1035c7ec1911c97d6a7ae60a0292dc9c3343da1b2030b61e5fcd43eec91c5"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/SimpleWebTransport.pdb",
@@ -386,7 +390,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Telepathy.dll",
-                      "Sha256":  "b4360e35be4b825f58a5cfb5b58ae5cb8caec2d05d8b599b5f661b606492cb8a"
+                      "Sha256":  "e595524a19e7b684e1393d4889518f39414f6dde4e70ef6178d41d347ec327be"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Telepathy.pdb",
@@ -394,7 +398,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Animation.Runtime.dll",
-                      "Sha256":  "f82c4f2491e7221cd555a90ec600fa5ea4564dca5ad1cc5d081dcb1188b53d4c"
+                      "Sha256":  "db62d12feb413dc2d868c09b199c80cc2840bfeaac21208d82f8d3d91a7d3e02"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Animation.Runtime.pdb",
@@ -402,7 +406,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Common.Runtime.dll",
-                      "Sha256":  "b2e2d3cc60b2b5fa4b0527eb7be0cd05c471981580f5b3db0fbcbc1f1f0d0d2f"
+                      "Sha256":  "c4ce24e6fe348667ed52a10c534f2fa030e57573d315db1a210420fcb8cdb07a"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Common.Runtime.pdb",
@@ -410,7 +414,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.IK.Runtime.dll",
-                      "Sha256":  "39e9ab5c9152fa32188774e5e8bf301456139ad37437d0081a09e04e90998128"
+                      "Sha256":  "e94cab0de4f0a6bbaba99962b5c0b2dcf823a0480451817a944dfd20c8c36391"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.IK.Runtime.pdb",
@@ -418,7 +422,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
-                      "Sha256":  "d1de34c99ca9483468bef7c3ee26b317c923cf7f85ac388697c1d1ebb52981f2"
+                      "Sha256":  "a38ad7d1995f33d075d9084226058890575e974a2dda8e4269491714759dffc8"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb",
@@ -426,7 +430,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Tilemap.Extras.dll",
-                      "Sha256":  "4e7c02d32dfc6a132d44e31386313df6fb1b43f537443b472ef26d03be1fc03e"
+                      "Sha256":  "5a61535a2dca74cb8e868448339ba4b8e32e1dc3724a0187a9e0f5f094d1e065"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.2D.Tilemap.Extras.pdb",
@@ -434,7 +438,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Burst.dll",
-                      "Sha256":  "9d29130eac89e23f5bf0eed8a9b9c2887e20d754f71379c8d11b84865706b1e8"
+                      "Sha256":  "34143ca700ea0bbf0b6e6992d99db0dd6d398acdd1a3bb020eb4efd721323926"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Burst.pdb",
@@ -446,7 +450,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Collections.dll",
-                      "Sha256":  "cb1b54eb3026b873fd7925eb36edcba9b2931d55f045e19aeb2be29b78c8cd01"
+                      "Sha256":  "de94813ac7c97b042ac0e0f2d7002f0a1d96f95962045d1bc32f9f40a9224367"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
@@ -458,11 +462,11 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InputSystem.dll",
-                      "Sha256":  "62e62e716b4d791c6383bf16746974927038218ab97ecdf50bcde545618355ef"
+                      "Sha256":  "7bad54374820030bfbb0013fd318eaf55524a3566217c1347be96637a76acda9"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InputSystem.ForUI.dll",
-                      "Sha256":  "148e22cf72e2fdc0efaa7df1635fddb24ef7f2711da8e81168e8be2441c1b18e"
+                      "Sha256":  "5ad65b3b40451c7f5f695b54edc295ae7e15fddf8021ca9187c810c8c12191a5"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InputSystem.ForUI.pdb",
@@ -474,7 +478,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
-                      "Sha256":  "35c89668dec3ee542de58a6d20dcb386dd9d1f1b47d3bbf446bb3a7af1549c36"
+                      "Sha256":  "11643e963fd67505a8db44db15463e312fe3b2a0a7d207af5b1e8a1ec9b5a0db"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb",
@@ -482,7 +486,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
-                      "Sha256":  "b2d8c75e182090f13a7f0b520d37c9c0eb494471592e0ead3b802a6595137fc1"
+                      "Sha256":  "09d2d0b9e41d0f1e98436faaa7664965b7afce360089ca06466f4c1110b116de"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.004.pdb",
@@ -490,7 +494,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Mathematics.dll",
-                      "Sha256":  "0add8a232a476e1c3324d05e4f06ec02f06b756c90371d035ca804b6d828cf75"
+                      "Sha256":  "91dc2b6efcfc613b64d4152df620ce23fcae08acad6a9a69152d7009d1318e18"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Mathematics.pdb",
@@ -498,7 +502,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
-                      "Sha256":  "687720cbbf6d43a7317a24953d1ad831b7490b3e8879378e07ef4a8e4d9b121c"
+                      "Sha256":  "9c7b4a50da6cb2aeea0ddbb0031898498b307a4ea3f4e314cae0a5934ca17254"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
@@ -506,7 +510,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
-                      "Sha256":  "616a757b11d3dd8fa3e1ee2ef797faad4167adf6cfe88c7eae5de9165fef2398"
+                      "Sha256":  "0f3e431e09ad7e9c70f26b057325524be280b6b5562a9de8a1d0c0325a0d567b"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
@@ -514,7 +518,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
-                      "Sha256":  "1c67e1c9e6ce079e1fbe282930316b798a57dc9b3c05a2bb12a8d11f3f98873c"
+                      "Sha256":  "a0741f04da023d23b4e2ce6bb3c61b0b8af1b3e7fcfec84ad0235a3d1e80534f"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
@@ -522,7 +526,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
-                      "Sha256":  "d54a6e606f600dde6513902604c4962b00ce16073d9fce2dc1254027b14081be"
+                      "Sha256":  "a4a8786773c2489117b19bb858d56e332cc6d46efbcf6b42e1c072086c550aa4"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
@@ -530,7 +534,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
-                      "Sha256":  "2ab21a1610cde105b74e3dc907548a4f4d3e21679a8c996aafcc8f6c564506f9"
+                      "Sha256":  "fe363d501a4a6bbf4fcf5f9ce269bedadaaebb8b6661932dec749b33b57580c2"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
@@ -538,7 +542,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
-                      "Sha256":  "e6811899798caacf35c9b15eca6423941e575738249dff921caa9b69f2720f5b"
+                      "Sha256":  "6543dee5c31393bd0ed9e1c43cce7074517316fa46e5143163256632f707836c"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
@@ -546,7 +550,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
-                      "Sha256":  "df71a5720d15b4eae124270f79b29d0f1aa17de8bee4c70bfbf148384c9a1a1e"
+                      "Sha256":  "a4e9b34943ddc91cfc18462b24daa241d9b973c87e354048d808eef8d67e6414"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.pdb",
@@ -554,7 +558,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
-                      "Sha256":  "33c651a59edb5e30be62eeadc90aeb22388c7c1bb4a5909e30427f1d1ecb4591"
+                      "Sha256":  "dbff7afd0d08f1feeafbc1c1c99f98e49e1ad588da3f9dbe66e328de88900304"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.pdb",
@@ -562,7 +566,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
-                      "Sha256":  "3be6c31ecea8b98b3a01616418b1e6f15dea92c1225bfacbdcaab92976f30d02"
+                      "Sha256":  "4ffa04f375f55015d16ba229340e3a0dc5a92bf95e3ce87abc40181a329cbb72"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Runtime.pdb",
@@ -570,7 +574,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
-                      "Sha256":  "80cb5f3a4a85bb4c6569b9e3b60463eb29ff6b69f59fe54ad9fdcc17b2c6be21"
+                      "Sha256":  "a8f22a8191fa916c1950f7d1e1f4d313c50ac7fd73fdbcdd8b431789d9d37c6d"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Shaders.pdb",
@@ -578,7 +582,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.TextMeshPro.dll",
-                      "Sha256":  "d93941e7c774a7e2f523d01150e91cbffd8f09ea16b78cdeffd95acbcf30f456"
+                      "Sha256":  "abd73f7e46974ea626bdd658328784022ade176884376778e5035ab413c44db0"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.TextMeshPro.pdb",
@@ -586,7 +590,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Timeline.dll",
-                      "Sha256":  "194ea488f6c5d3828eacdb1d53d29c700b900a9c2724157723fe2cd3c096cf77"
+                      "Sha256":  "001b2204bb2331194c50146b8fdb9aa407d4ac71ce4aa393d1d874769408036d"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.Timeline.pdb",
@@ -594,7 +598,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
-                      "Sha256":  "d4235f90863e99523663605ed2e963826f51ec0b14a57e7cfc5810d923125f77"
+                      "Sha256":  "55761497a1566c6ae8f4142b84d0b242d10b8a1d5bf0084dbd83b8301f12898f"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/Unity.UnifiedRayTracing.Runtime.pdb",
@@ -1090,7 +1094,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/UnityEngine.UI.dll",
-                      "Sha256":  "bcfd9818a6e53a9ea5d93fdaed131602776f66a13121e7c6f69d0e07f92c94e0"
+                      "Sha256":  "25cf8c632f19b2d15ad31dfe05dd39e894d1ba33afc4d6e8fb9c008c2f8b1330"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/UnityEngine.UI.pdb",
@@ -1266,7 +1270,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Managed/VContainer.dll",
-                      "Sha256":  "efdd79e562f0bcbda3a952f03d26fc55a50605dcf918690184ed551d2af0feef"
+                      "Sha256":  "6691802607578bfe7f86ad4ed367fe8f6cbd1cc822c1308981c63be97b762470"
                   },
                   {
                       "Path":  "Amedy_Data/Managed/VContainer.pdb",
@@ -1278,7 +1282,7 @@
                   },
                   {
                       "Path":  "Amedy_Data/Plugins/x86_64/lib_burst_generated.dll",
-                      "Sha256":  "2dcca13c22ec416947ea03fa23d3eb28ccb99bf03a7283d22369924089b3c2dc"
+                      "Sha256":  "d3724c1b2ce83b34e94e7709e01feb1a12cc52bc09d9e1954ead9ba15df72a50"
                   },
                   {
                       "Path":  "Amedy_Data/Plugins/x86_64/lib_burst_generated.pdb",
@@ -1306,11 +1310,11 @@
                   },
                   {
                       "Path":  "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
-                      "Sha256":  "248381e7f96fe565c2092bd98f7a4bb0bfe073444da26d004b0d3a0daca3d558"
+                      "Sha256":  "2176aaa8144c12090413f39bec9cc4754a9a3cdf598e2113b24a2782b3b6d81d"
                   },
                   {
                       "Path":  "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
-                      "Sha256":  "101138a38b1468971b4faef8432ae340817f6e4ab1cb1a4c3132dd1c44a02c53"
+                      "Sha256":  "9da8c87742ddae38546c57db89d7f119c4ac2f55ec2c54d8af83fb03d5e52113"
                   },
                   {
                       "Path":  "MonoBleedingEdge/etc/mono/browscap.ini",
