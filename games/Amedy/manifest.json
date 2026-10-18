@@ -1,7 +1,7 @@
 ﻿{
     "Files":  [
                   {
-                      "Path":  "Amedy_Rework.exe",
+                      "Path":  "Amedy.exe",
                       "Sha256":  "080eae12a6b1c874f8b5c96e3d22ceb1f8a278017507a46901dbe0b6396cfd1b"
                   },
                   {
@@ -21,1295 +21,1295 @@
                       "Sha256":  "81adcfd8253c3489be720da7e30f16004dc9a1f02a8b418c6c3aef4993032e6d"
                   },
                   {
-                      "Path":  "Amedy_Rework_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
+                      "Path":  "Amedy_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
                       "Sha256":  "2769f64ebc0577c2e1addbe343d475ebe5103c887d49c567e8dbc368696fa6f9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/app.info",
+                      "Path":  "Amedy_Data/app.info",
                       "Sha256":  "820681234dad49ff63e345e09fc79fceb066bf6b5c9b521f8ba003eb52c00d08"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/boot.config",
+                      "Path":  "Amedy_Data/boot.config",
                       "Sha256":  "307498a9ed82fcfeb979620b9f3132f1be228088c9fe8ea55a8a855c3ca24a8d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/globalgamemanagers",
+                      "Path":  "Amedy_Data/globalgamemanagers",
                       "Sha256":  "51df7686f77d5ea1395739234ac449287a5f44c256dd7a06b8649c0c5aadbb03"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/globalgamemanagers.assets",
+                      "Path":  "Amedy_Data/globalgamemanagers.assets",
                       "Sha256":  "d085002380ee19c1bc5327b755c0263abf53645ad656be55430f0f8b44b53eb5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/globalgamemanagers.assets.resS",
+                      "Path":  "Amedy_Data/globalgamemanagers.assets.resS",
                       "Sha256":  "9d5cd592a38d46bd823a36366b1f5b84cf0a2b3ace58dec6a6374ca0d50fe6ec"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/level0",
+                      "Path":  "Amedy_Data/level0",
                       "Sha256":  "bb94ba9d52ae99c04a2195581c73dc21e24c4614349b4c7a9b6bda01a9be9d95"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/level1",
+                      "Path":  "Amedy_Data/level1",
                       "Sha256":  "3488c7d604ee895bf92b65198bd49c22cb15dd9bfc50481816a26a3bb3184aa4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/level2",
+                      "Path":  "Amedy_Data/level2",
                       "Sha256":  "e89157d0356a5eb1b5bff928cc96a9d91bb05f5149f9c5fd9ba0bf682e4d26de"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/level3",
+                      "Path":  "Amedy_Data/level3",
                       "Sha256":  "f24cda4bc6ea9a2e5f507c74b55119b584d0ef474965c8ad0c33e8689b28c977"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/resources.assets",
+                      "Path":  "Amedy_Data/resources.assets",
                       "Sha256":  "8d6c96b6eecb7a067f7246374105f836e825fd9210f6505f007fe183e4d78838"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/resources.assets.resS",
+                      "Path":  "Amedy_Data/resources.assets.resS",
                       "Sha256":  "d556224c40537967ab3f2128868b6a01dcd032f164a9152b7af5a77ab83c7eac"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/RuntimeInitializeOnLoads.json",
+                      "Path":  "Amedy_Data/RuntimeInitializeOnLoads.json",
                       "Sha256":  "735de6da7445068ac8e83fa19ebbff9f12cad5c8f3e27f83e9e2960ce20fb432"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/ScriptingAssemblies.json",
+                      "Path":  "Amedy_Data/ScriptingAssemblies.json",
                       "Sha256":  "8d87b5d00f6920dbc4c54bced1fb3a22f372ab001453eac2369318ab30e5611f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets0.assets",
+                      "Path":  "Amedy_Data/sharedassets0.assets",
                       "Sha256":  "a6ee489b1b7db38043307c39173e7aeb57db41f7ed539a9bba8710287ada6a0b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets0.assets.resS",
+                      "Path":  "Amedy_Data/sharedassets0.assets.resS",
                       "Sha256":  "2249a8db915ceeba6ddd05b70610190c5e3fca8b904f66ab12516ab37e776d27"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets1.assets",
+                      "Path":  "Amedy_Data/sharedassets1.assets",
                       "Sha256":  "68d52ffb1d48ecb1bdce9e797376f59f782fcd28345c13ae29cb0db85f66b5a1"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets1.assets.resS",
+                      "Path":  "Amedy_Data/sharedassets1.assets.resS",
                       "Sha256":  "632df74fbd0c305c265201df5568d2e804589d07de7b98a59838696649a9549e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets2.assets",
+                      "Path":  "Amedy_Data/sharedassets2.assets",
                       "Sha256":  "c907117dde28521b216bf3536a2923aef709619b2e869d5d2647176d50050959"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets2.assets.resS",
+                      "Path":  "Amedy_Data/sharedassets2.assets.resS",
                       "Sha256":  "9507f514bf1230abac26074a387b1da642a28e2b02176d66d97debea2110a759"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/sharedassets3.assets",
+                      "Path":  "Amedy_Data/sharedassets3.assets",
                       "Sha256":  "d18c90cdd2b81e379c42de63d5c39cdc1e1ef9b2c5f671e87607a8db40a260cc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Assembly-CSharp-firstpass.dll",
+                      "Path":  "Amedy_Data/Managed/Assembly-CSharp-firstpass.dll",
                       "Sha256":  "c29360ada3a259d203d282bf23d72265adab18deab46a0db41a1cadb4eb2202f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Assembly-CSharp-firstpass.pdb",
+                      "Path":  "Amedy_Data/Managed/Assembly-CSharp-firstpass.pdb",
                       "Sha256":  "7a5d10067a393201050aa0910521ae28f4f19cb83f5bf669d95373db58009080"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Assembly-CSharp.dll",
+                      "Path":  "Amedy_Data/Managed/Assembly-CSharp.dll",
                       "Sha256":  "c543e214e5d1d5a212a18efccd444af7e01e223b5f0161ffa171d09bb216e809"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Assembly-CSharp.pdb",
+                      "Path":  "Amedy_Data/Managed/Assembly-CSharp.pdb",
                       "Sha256":  "b4702e4b122e5e2238288cf46db3516f9c22ec83210bfabacdca25b159f00490"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/com.rlabrecque.steamworks.net.dll",
+                      "Path":  "Amedy_Data/Managed/com.rlabrecque.steamworks.net.dll",
                       "Sha256":  "789d132d503621e8d4cfe127ac27d2d6d57264a7fcbe6322bf45d422fe74c70f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/com.rlabrecque.steamworks.net.pdb",
+                      "Path":  "Amedy_Data/Managed/com.rlabrecque.steamworks.net.pdb",
                       "Sha256":  "dc678aa181d4ed3a89865d1c54b634888129f19b8e26e589479c3c5a2df092c7"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/DOTween.dll",
+                      "Path":  "Amedy_Data/Managed/DOTween.dll",
                       "Sha256":  "5cee7f2b16fd3ba509ecac8bfc95efc9347682956fc4c1efde14618176e34491"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/FizzySteamworks.dll",
+                      "Path":  "Amedy_Data/Managed/FizzySteamworks.dll",
                       "Sha256":  "bdbc599a6f41725c02fc94014886a3f529813ce2f05bb011c33a9695d67fbed6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/FizzySteamworks.pdb",
+                      "Path":  "Amedy_Data/Managed/FizzySteamworks.pdb",
                       "Sha256":  "40b031db98424a302053704db229f160eba141a7c7eeee64f0d9374e0205d230"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/kcp2k.dll",
+                      "Path":  "Amedy_Data/Managed/kcp2k.dll",
                       "Sha256":  "eac5480e4fda3498045260dbbaed38a74f09b3a1e203f3156e8c1af3d3983663"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/kcp2k.pdb",
+                      "Path":  "Amedy_Data/Managed/kcp2k.pdb",
                       "Sha256":  "cbede01b0ae25cc8851fc8812ee62b0f55fb4e454cfcc94e8d831ce66cabe269"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Authenticators.dll",
+                      "Path":  "Amedy_Data/Managed/Mirror.Authenticators.dll",
                       "Sha256":  "bfe8b032f695d6417e28fba13ef146062d4674187b181c899392c2a03120e9bf"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Authenticators.pdb",
+                      "Path":  "Amedy_Data/Managed/Mirror.Authenticators.pdb",
                       "Sha256":  "d55357f2c782e006963a8e2679eff87db70e81528d1c4ae99779f6f3fd51ad44"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.BouncyCastle.Cryptography.dll",
+                      "Path":  "Amedy_Data/Managed/Mirror.BouncyCastle.Cryptography.dll",
                       "Sha256":  "860787fa58288910f9ef0b3147ac1df96623d4d7bd7bc309c9161871b0819fcf"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Components.dll",
+                      "Path":  "Amedy_Data/Managed/Mirror.Components.dll",
                       "Sha256":  "99c1d0f54a7ab76135ff69b0efa2f2035770e616d30926847a80ab2b06d8a96d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Components.pdb",
+                      "Path":  "Amedy_Data/Managed/Mirror.Components.pdb",
                       "Sha256":  "2d6c6b10f0b23936de32d9ca75ec9fd1c07653ade2afbd610c286353c4297faa"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.dll",
+                      "Path":  "Amedy_Data/Managed/Mirror.dll",
                       "Sha256":  "89661c4dd5ec125d8694d896e9b2aa7b9743b3b9bb9cd3fb7a2740c8c3bc7d8a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.pdb",
+                      "Path":  "Amedy_Data/Managed/Mirror.pdb",
                       "Sha256":  "5fb632b31b85ceb65374dc13ea83fa24266b479152854aa7ef571020f87bb16c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Transports.dll",
+                      "Path":  "Amedy_Data/Managed/Mirror.Transports.dll",
                       "Sha256":  "7ff8a2fb37c333f040bae1062f8403bf4c582fda85a6e1d39b66e33dd5b7cdeb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mirror.Transports.pdb",
+                      "Path":  "Amedy_Data/Managed/Mirror.Transports.pdb",
                       "Sha256":  "76e0a51c61dd1cdde1a4bf0f40e0e54d57e37ab12e66070549b9b8c074cea953"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Mono.Security.dll",
+                      "Path":  "Amedy_Data/Managed/Mono.Security.dll",
                       "Sha256":  "618009319dbf3ae374f9b5dc0d0522e1e1bdd172200c120a5471747b7991a584"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/mscorlib.dll",
+                      "Path":  "Amedy_Data/Managed/mscorlib.dll",
                       "Sha256":  "6c76e06e6d44cf0f39bf59e6a90770968b70093ad4c1572dfbc5e46e431c5fbf"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/netstandard.dll",
+                      "Path":  "Amedy_Data/Managed/netstandard.dll",
                       "Sha256":  "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Newtonsoft.Json.dll",
+                      "Path":  "Amedy_Data/Managed/Newtonsoft.Json.dll",
                       "Sha256":  "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Newtonsoft.Json.pdb",
+                      "Path":  "Amedy_Data/Managed/Newtonsoft.Json.pdb",
                       "Sha256":  "17cbab4d4207187ed94173c0d59d7a39fabed7c9035b73634c1f02188dd60168"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/SimpleWebTransport.dll",
+                      "Path":  "Amedy_Data/Managed/SimpleWebTransport.dll",
                       "Sha256":  "2132b7de73908eb06b97eb3e2d4b182bdeffdba5e1697593d734a35bb4c54e7a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/SimpleWebTransport.pdb",
+                      "Path":  "Amedy_Data/Managed/SimpleWebTransport.pdb",
                       "Sha256":  "d6787512fcfaf1895cf71603031e95cc8d37d834b88f08b8a8f40eccd75315b9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Buffers.dll",
+                      "Path":  "Amedy_Data/Managed/System.Buffers.dll",
                       "Sha256":  "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.ComponentModel.Composition.dll",
+                      "Path":  "Amedy_Data/Managed/System.ComponentModel.Composition.dll",
                       "Sha256":  "0c3e81771a5fe9657bea02887996de72606c3cb247e4fbe413f743f40e2af244"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Configuration.dll",
+                      "Path":  "Amedy_Data/Managed/System.Configuration.dll",
                       "Sha256":  "04907729e87a101e62d3a5c93cfa16688bee745d05440d6daa0c541964be27ab"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Core.dll",
+                      "Path":  "Amedy_Data/Managed/System.Core.dll",
                       "Sha256":  "a5e7d47313da0eca0b92a901a30498f5e970916faf63b70b74dd62b09760ed72"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Data.DataSetExtensions.dll",
+                      "Path":  "Amedy_Data/Managed/System.Data.DataSetExtensions.dll",
                       "Sha256":  "498f14c37d83f946a47a79e01de777e62f269ee9c3820f2026b59ab1c1b9222f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Data.dll",
+                      "Path":  "Amedy_Data/Managed/System.Data.dll",
                       "Sha256":  "427478545ce66b632414ca838088ea073f250ed16b21c70005f48cb571350e47"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.dll",
+                      "Path":  "Amedy_Data/Managed/System.dll",
                       "Sha256":  "7019d6b6dbfa07cf30f62e7d3ccb969f70cbf001fd72112938ffb535c7f75d81"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Drawing.dll",
+                      "Path":  "Amedy_Data/Managed/System.Drawing.dll",
                       "Sha256":  "e182e688223acedb8135227e8fbff17d5ed22f47f81141aa9cb96ef1ab9926fc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.EnterpriseServices.dll",
+                      "Path":  "Amedy_Data/Managed/System.EnterpriseServices.dll",
                       "Sha256":  "84af394ad863e31407eb2b9555ca7e96a9f1966630f5d7f0eec54f0011f6babc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.IO.Compression.dll",
+                      "Path":  "Amedy_Data/Managed/System.IO.Compression.dll",
                       "Sha256":  "80421a67b4162a5f1b4aad6a8327c6d1fb4b04dedd39dae14a770b812594fae2"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.IO.Compression.FileSystem.dll",
+                      "Path":  "Amedy_Data/Managed/System.IO.Compression.FileSystem.dll",
                       "Sha256":  "2730d2a27f9362259a406ea14727e5f0a71bc21a6825be94f8623a84bd9f9c79"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.IO.Hashing.dll",
+                      "Path":  "Amedy_Data/Managed/System.IO.Hashing.dll",
                       "Sha256":  "ac7ac3e83805b0b621c48b90543dc733c9a89106835278618357d6187e3da74e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Memory.dll",
+                      "Path":  "Amedy_Data/Managed/System.Memory.dll",
                       "Sha256":  "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Net.Http.dll",
+                      "Path":  "Amedy_Data/Managed/System.Net.Http.dll",
                       "Sha256":  "3cd3ac19050d5031c13644cd87958ad8029b79ce16c7747faf3d0542e7fb45a3"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Numerics.dll",
+                      "Path":  "Amedy_Data/Managed/System.Numerics.dll",
                       "Sha256":  "ac9224b32355a09f09b706cab568384f64cf8116825c5911cef1e13221c61c38"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+                      "Path":  "Amedy_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
                       "Sha256":  "01748200f2400c742aa689f1f5101bd6298efdfd92c00c18f4fa473847235ba9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/System.Runtime.dll",
                       "Sha256":  "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Runtime.Serialization.dll",
+                      "Path":  "Amedy_Data/Managed/System.Runtime.Serialization.dll",
                       "Sha256":  "1152ef687dbe39e0ccb6b9a68f6501004415a729072df29abab3bc7c66840217"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Security.dll",
+                      "Path":  "Amedy_Data/Managed/System.Security.dll",
                       "Sha256":  "2101a4dd4475285f96b1ac3ba1715a52aa8067690709e675cc49a9eb8ed901a4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.ServiceModel.Internals.dll",
+                      "Path":  "Amedy_Data/Managed/System.ServiceModel.Internals.dll",
                       "Sha256":  "888ec94a59c127854871b76afa49fdcefdf723c0f0b6fd78e87f73a8495b63b5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Text.Encoding.CodePages.dll",
+                      "Path":  "Amedy_Data/Managed/System.Text.Encoding.CodePages.dll",
                       "Sha256":  "9ea0cbfb0cee9227282abb590ab9c83d2842484f3657821111c0ff302be99047"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Threading.Tasks.Extensions.dll",
+                      "Path":  "Amedy_Data/Managed/System.Threading.Tasks.Extensions.dll",
                       "Sha256":  "96150abdca5df4446b376560e069d59b3550212deda8cbdd316272f6b834f597"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Transactions.dll",
+                      "Path":  "Amedy_Data/Managed/System.Transactions.dll",
                       "Sha256":  "f65dbc257d26a361dcc01edd58bf3e542d186c8ee492a4f7a62b0dd7d59f7050"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Xml.dll",
+                      "Path":  "Amedy_Data/Managed/System.Xml.dll",
                       "Sha256":  "79194220adfcf027a334c87b1adcc6d07b9660a4061e04b3d9500c10d30f7d49"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/System.Xml.Linq.dll",
+                      "Path":  "Amedy_Data/Managed/System.Xml.Linq.dll",
                       "Sha256":  "4f5d6bf313cbf091e7bff83d07dd03ed93d0ecb3ddb025ae786aadd6b5f477fb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Telepathy.dll",
+                      "Path":  "Amedy_Data/Managed/Telepathy.dll",
                       "Sha256":  "2494a55808e3c1fc927aea44257b5c1a932558578e4c9a412c8ceba867247b46"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Telepathy.pdb",
+                      "Path":  "Amedy_Data/Managed/Telepathy.pdb",
                       "Sha256":  "5b4726e9d870bcccd6b6d8a664635d89bc9995a037d30dbf1a68042626251933"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.Addressables.dll",
+                      "Path":  "Amedy_Data/Managed/UniTask.Addressables.dll",
                       "Sha256":  "778f40f960b51035f8f74f085dcb0e4251f569096bff800512ed02c2eeea89d4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.Addressables.pdb",
+                      "Path":  "Amedy_Data/Managed/UniTask.Addressables.pdb",
                       "Sha256":  "8ccff78e1db94a7f3a407b42a6d93a725e739e678bdf64cd18a3ff12d79ec518"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.dll",
+                      "Path":  "Amedy_Data/Managed/UniTask.dll",
                       "Sha256":  "fe5f4da1e8b806fe6068e9011e30356b64b71394f9c449b2b7df682a4b89371a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.DOTween.dll",
+                      "Path":  "Amedy_Data/Managed/UniTask.DOTween.dll",
                       "Sha256":  "9b646fc8f13e7ed8d12a06fde18345a265f50a884f814b83ad33a877fc06b6f1"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.DOTween.pdb",
+                      "Path":  "Amedy_Data/Managed/UniTask.DOTween.pdb",
                       "Sha256":  "1f3e4f1cbfbaede6e94dda638aa1c8f2804a3596f4ecf7ee026266e9e5b3b2e5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.Linq.dll",
+                      "Path":  "Amedy_Data/Managed/UniTask.Linq.dll",
                       "Sha256":  "038f923624811733d656ad0bc1842624961a01b7d2757c2da1c778ae562d062a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.Linq.pdb",
+                      "Path":  "Amedy_Data/Managed/UniTask.Linq.pdb",
                       "Sha256":  "d34ce32162380e81d46a21c6326894faa46982d04e2f0d461d1823833d270650"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.pdb",
+                      "Path":  "Amedy_Data/Managed/UniTask.pdb",
                       "Sha256":  "7b9669c32b6f1404a272eb0b71519145570aac99565f6f960420a7b1fbe2880e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.TextMeshPro.dll",
+                      "Path":  "Amedy_Data/Managed/UniTask.TextMeshPro.dll",
                       "Sha256":  "43deb9e67e4d22fd0513dbb968f1725e86d5aa29da2c6eb065cbf660ee6a8c49"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UniTask.TextMeshPro.pdb",
+                      "Path":  "Amedy_Data/Managed/UniTask.TextMeshPro.pdb",
                       "Sha256":  "a6b78a48c424d6763e52d64d044648565c16e0fa91d5dd822fde6125f84f86f6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Animation.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Animation.Runtime.dll",
                       "Sha256":  "1b0134667540ded479863f110f999e19c6f55ef6a0252dfc3d235f4f5d4d66c5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Animation.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Animation.Runtime.pdb",
                       "Sha256":  "c4fa2f8f97b50f07e84fa5e781c76c82418cc51d753331fa57bb7d400d3c1682"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Common.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Common.Runtime.dll",
                       "Sha256":  "c181070b209a2088eb0144ef18c8893f2bc74e2d4d8bd2a94db78a9a03e0cb13"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Common.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Common.Runtime.pdb",
                       "Sha256":  "436365461e5b811f95185953cc7b1cf04ab8185897eb91621ce235bb1587aa42"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.IK.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.IK.Runtime.dll",
                       "Sha256":  "6aaebe212ef8d185a961ca48dad457b7d43da4f4648392884fbf79b40c23f2fe"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.IK.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.IK.Runtime.pdb",
                       "Sha256":  "8842987684a0eb098fb526862c4d6572df35257d9e755f9d79f6061a21051263"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
                       "Sha256":  "495e9fd66194d6735227855a86e5032fdb686859c91b006c096277ac3c056679"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb",
                       "Sha256":  "df2b2695b6266cd08a882446c3054cbecd5d3a73c76b74f3c80757edb4dd3e93"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Tilemap.Extras.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Tilemap.Extras.dll",
                       "Sha256":  "4fa41d09ec5818cd94faa856110b075f2484e3422ed2f58eabe0c0c8d990a294"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.2D.Tilemap.Extras.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.2D.Tilemap.Extras.pdb",
                       "Sha256":  "0a26f6c1b6c65ba7725f5374faa085fd810f9eae396e7fa464a32690f88fbd57"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Burst.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Burst.dll",
                       "Sha256":  "d37b5baa3d3657b3d4a8355b17700c169872bac69790c04b3412f3aa8ab6a34d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Burst.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Burst.pdb",
                       "Sha256":  "4b6eafaf36c7a6002ae9a375610d6bfd52919162af9f1f1e593fe97cb98a97db"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Burst.Unsafe.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Burst.Unsafe.dll",
                       "Sha256":  "9d9c1ff52411decbee5d9f0d1cd61ebeaa222077aa77a52101ea3debafae98e2"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Collections.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Collections.dll",
                       "Sha256":  "93965dd2c6f03491c81b9ab7ce32f91ade6fb3d7fc8719c729ce8ad96b836a99"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
                       "Sha256":  "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Collections.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Collections.pdb",
                       "Sha256":  "a8492b0ab976606a22a9851a593c544eb073d8339c85eb9c42bc87cb44bfe692"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InputSystem.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.InputSystem.dll",
                       "Sha256":  "dabc2be059ea35f11ff45b3eb6c63f8bd5a7383230f448ec1ebc6a47374a4836"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InputSystem.ForUI.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.InputSystem.ForUI.dll",
                       "Sha256":  "07500a967fbb0d752804d854347917b33ba66fff1459530a25833c26d9d8d996"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InputSystem.ForUI.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.InputSystem.ForUI.pdb",
                       "Sha256":  "b69c4e968054589e9a298a20360c3308e43146dd004f9880d48c852acca7ab54"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InputSystem.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.InputSystem.pdb",
                       "Sha256":  "74042f35a5a30139cc8dea269eafd00babe4df46a10d51f32e0ff7bc36decb97"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
                       "Sha256":  "0749e41306d1e509ee5e7a3d80d9ca1f865de5033cf05e5f14276cdf5cedd01e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb",
                       "Sha256":  "59eee980aca8a21872f3f3580622abdc573db5337b2ce061488129b6a1ba136b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
                       "Sha256":  "53b7052a12ef6eeb8b02769211fe6f1367f15a6ec2e467960c99ce9173493886"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.InternalAPIEngineBridge.004.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.InternalAPIEngineBridge.004.pdb",
                       "Sha256":  "93c54af4bdcdd112cbf07fe70e88c50fedac43c9b02778b8a4e11a5f37b12ff0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Mathematics.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Mathematics.dll",
                       "Sha256":  "b57acf4e0decd27b9faa25c40195dd96f88a2c046ca9b7c6db8785067c813617"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Mathematics.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Mathematics.pdb",
                       "Sha256":  "b3024aee27da1e7e863e8e5186ae89b668aaf80589b32e82c3a7cae0ca960387"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.Attributes.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.Attributes.dll",
                       "Sha256":  "54a22b73b932f5fd3e170a3d2912dd38acde6ba9ed6450dc2cbdafd0d144b134"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.Attributes.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.Attributes.pdb",
                       "Sha256":  "7a90413b89d5f762ecb2abed0e3be7d4f881a5e110abb3ff195897910d100886"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.dll",
                       "Sha256":  "54f3fb162cf9750265fa409be47c7341b65ec1425bf04ec1287ccb939f646639"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.IlInterpreter.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.IlInterpreter.dll",
                       "Sha256":  "e2d076a8070f68e10e33cd0d1e2f56606c944184ea4ed67f0f29e51cc169d030"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.IlInterpreter.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.IlInterpreter.pdb",
                       "Sha256":  "2b8f664786ad2453a34d095d379d642806611ebbc756b5cc8c3e6cdc27371cfb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Pipeline.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Pipeline.pdb",
                       "Sha256":  "128f54ade83d4f4cbc43c37e9e6e4c603696ff4e66892ae04f7d61ed29ead6c2"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
                       "Sha256":  "85870e897eca888264fbfc40807760219d4eb0f10d882eb8d967db6e5eda6369"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
                       "Sha256":  "b38133c58d31fb9ec9b9e9c297293d0e259157a11f0ae26b8927559b22fbfc16"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
                       "Sha256":  "772060b3e209ebfbc8d93195d524b1310cabce43d338ba1e2c39ac2ce26549c5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
                       "Sha256":  "31e161271f7881084465e6f99baa2e0df021dce3b8995f775768b49e9b880ea8"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
                       "Sha256":  "fa63fe531b5bb73463951bb07553d447db77d42a407a9b57117643ae0cb2326e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
                       "Sha256":  "d4d2038e55caacf288cb1e891b37358e60e80b63488ba9493b996ae0393916db"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
                       "Sha256":  "5f3f60088df6476c91937e5808bcd4f0e13fa457ee304daea8ac56dc1d6a3463"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
                       "Sha256":  "a7b90febd899e8335a13c0562e275f56f0c2f933175649288a618e0e6c33c50d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
                       "Sha256":  "ffaa0b2f21416a75f0619e0b37e0121de0ff57c230a6f2e34b0748b893946030"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
                       "Sha256":  "91e409752eaecfc15ce1a2c5a7be2ecffa0bf9996ba3ee7c97dbff4ef5f38287"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
                       "Sha256":  "6fa0ed6e274b4d5fa3386dcf772df66af07f68887609b9982eec3f60c159b978"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
                       "Sha256":  "cff1d7bb849bd8470be0a1dd789e39ff36648962b5825d9457f6288792b5637a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
                       "Sha256":  "d3e67131c666d78c6d3121bcf8e26cfca3acfffe3ad6517ac024a5d4faf321aa"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.pdb",
                       "Sha256":  "452f57ff703ef7f1bf4a6ab5e5765df14c01b371d9a244ecb51c47c51a6125cc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
                       "Sha256":  "ceba81db75fe839791cd2bd6b7ab066ee1d849ab18609c3fea9f3addef49ce37"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.pdb",
                       "Sha256":  "8ae030de5a64215ee4d8a981949b167b1651e1cbc62cbf5d91199e59b9768d4d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
                       "Sha256":  "5e9e0b6dca58ae388cd96f37a6622519570ebbfabd7b098bf97ef0917326e739"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Runtime.pdb",
                       "Sha256":  "de41d48a08928fa6de56f3d31ccb2b7ebd54a430fdc7e9a6b444ce7266f65a32"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
                       "Sha256":  "42dc6a463d20f7f25ba98c77926fc92321b33a6c8b54b74098e50f7a0a97581c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.RenderPipelines.Universal.Shaders.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.RenderPipelines.Universal.Shaders.pdb",
                       "Sha256":  "ae6fc5bb68a873a7fa806a431e2e868c5bb19e950d2a117e09a5980da53f20ed"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.TextMeshPro.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.TextMeshPro.dll",
                       "Sha256":  "72b7297ab44b8df254a5c2a11a01ee402eac7fe1eeeb71bbe8ce308223008684"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.TextMeshPro.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.TextMeshPro.pdb",
                       "Sha256":  "418a193d5a26987cdb1296ea36dd5a6e8f255dfd53826cca2940544735d0d0cc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Timeline.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.Timeline.dll",
                       "Sha256":  "af00b8356306a228b3085a9c64dfe5e5a4f69aacff7932077c81ac1308e503c6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.Timeline.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.Timeline.pdb",
                       "Sha256":  "d02d09997420261a60fdd7de0f505afb076a984ea7427f95ceb6f4c261da64fe"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+                      "Path":  "Amedy_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
                       "Sha256":  "5a3fa6b2b1728bce784f16f76dcf3c0f0dfa668e4673198b4a8cc959f45b518b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/Unity.UnifiedRayTracing.Runtime.pdb",
+                      "Path":  "Amedy_Data/Managed/Unity.UnifiedRayTracing.Runtime.pdb",
                       "Sha256":  "82028bdc7ff334abafef7617297ffd7d9a82d58cab8b5d1b9d6d5fd020948fab"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AccessibilityModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AccessibilityModule.dll",
                       "Sha256":  "5251a1d297dae28c947e71c27c5c2c0c475bf45e5f35956be9ff71fba1336a9f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AccessibilityModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AccessibilityModule.pdb",
                       "Sha256":  "454d6e647ff9bb62c17cbf4d30bc9af194c6643c5d8ecea899481f8c862ece18"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
                       "Sha256":  "2dfbbf13bdb8a94d245251ee9896ea755497ca3c69f060775499557a95c7fea4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AdaptivePerformanceModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AdaptivePerformanceModule.pdb",
                       "Sha256":  "501ff89e8434ce69c4d341e3c700f9f9ec7df6e2f8657d22e9513314e2d0e0ea"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AIModule.dll",
                       "Sha256":  "0fa4113db961bbf196118cae872bd36ddc03e4b4e003f9f9a4accf12415837fb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AIModule.pdb",
                       "Sha256":  "ec4bbe8107920732e9ca4c7c7d196973a928303a93e81dec683da12223c6b747"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AMDModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AMDModule.dll",
                       "Sha256":  "c29bf5de81c02849e8451ae653dd501a83ab0b7c0d89517a737adbb342b5f4bb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AMDModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AMDModule.pdb",
                       "Sha256":  "e29cbbf0e2a7eaa8e902a0f8079ea0653fef1f855d0911a2f2fcf43b32b99ad9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AndroidJNIModule.dll",
                       "Sha256":  "c732527a59a4ca4290abd0f3852db88e198f998b38e8eef4b6fda6077e93e0d3"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AndroidJNIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AndroidJNIModule.pdb",
                       "Sha256":  "8eda4a8234cf683e5ecce85445628b11e432a7d9658c6c0d174969942842d849"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AnimationModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AnimationModule.dll",
                       "Sha256":  "bafb3c9693deea8c7fe6af004ae4e9559e394fe7f7d8e6522b17e0d9cfb16633"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AnimationModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AnimationModule.pdb",
                       "Sha256":  "767e17c8293644a2675d8b1558b49a38667d66fbfc5edccc88a1b2229b7d8643"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ARModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ARModule.dll",
                       "Sha256":  "e8f053c47a3166382e0c2f10985608a93cedd9f9259c13fc387119db0a7e9bac"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ARModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ARModule.pdb",
                       "Sha256":  "22a4c85741194a3eecb4b9650bbeb4a4cadc83efacc34a382cb49711417e8ee0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AssetBundleModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AssetBundleModule.dll",
                       "Sha256":  "4ca0165aaf2cc0782d604c19509f6c67823e326435acadbe7e49b89b10befb1c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AssetBundleModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AssetBundleModule.pdb",
                       "Sha256":  "4137328c761d0a58c0ad568af7fee663f6821eff51f887d04cccf3ce7c922364"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AudioModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AudioModule.dll",
                       "Sha256":  "c4d90eb0091f5c3401117dd33fcba97acc99c6f0d06d1620cf87954b080c1906"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.AudioModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.AudioModule.pdb",
                       "Sha256":  "441e26b5c7bb1aa27b5dbd3460f961e55341de871db5c5fb631d8c45dd6e8f58"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClothModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClothModule.dll",
                       "Sha256":  "cc57fdb02fa88584297e8a0667ad1bb78636f3276ddf02e0fe22f13fa595b4db"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClothModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClothModule.pdb",
                       "Sha256":  "b2ccc7afc590bda5dee0f99a1086fcf3ad61611e3f6bdcb57f25c1af9a334aac"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClusterInputModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClusterInputModule.dll",
                       "Sha256":  "cc9115e188e1e1bf4a6954bfaeafbf9479c9c47f49fa86f4a1e1363b45850a21"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClusterInputModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClusterInputModule.pdb",
                       "Sha256":  "050c10896c2ac34bd926308c6da1e32bb86f20516656ec639fa25a0cdeac732d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClusterRendererModule.dll",
                       "Sha256":  "c66819dfe8465266d54a7880a8024073c58cd8b407f372ffed3d1d5330e52f7f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ClusterRendererModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ClusterRendererModule.pdb",
                       "Sha256":  "8b5b238df8bacc3f6016cd2cdebe967f0ba24950e85156c8258a65a9ed16e34d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ContentLoadModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ContentLoadModule.dll",
                       "Sha256":  "3b2b997f5e3f3e6c1b1f1cbd2457944d38b359beb11889ed3dc61f4688774435"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ContentLoadModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ContentLoadModule.pdb",
                       "Sha256":  "8ef5e17965a19f735cef04093d4a4129b6237e638f0eb96b4bd1f8832e42a04c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.CoreModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.CoreModule.dll",
                       "Sha256":  "29a4200680e850db260d0f6fdbd22e27777a52f46918397f9b4e5316eecbecdb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.CoreModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.CoreModule.pdb",
                       "Sha256":  "6ba839cfa80e816bac4533cd37a59c6a85fed5eaac89694d2c88b14cef5d40cd"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.CrashReportingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.CrashReportingModule.dll",
                       "Sha256":  "96ff76764df85a9bbc6e56ac6c9009ebd18a5952c69bde55a5b2f397e1eaa5a3"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.CrashReportingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.CrashReportingModule.pdb",
                       "Sha256":  "d8b63f72e4a1adfbc60e055f72ea3e7f2375ce297d5ebc776395757453494f70"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.DirectorModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.DirectorModule.dll",
                       "Sha256":  "ebd0aa047e4162e2a00afc6e646e3250218da31c59f1a07b7420088bef534173"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.DirectorModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.DirectorModule.pdb",
                       "Sha256":  "efefd94fa5ea4a0ee9987fc30c7f1afb144b6120ca023a560a681a2245ab4213"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.dll",
                       "Sha256":  "20df500ce809a521cc201d5dd9ebdb39d3cc92bc9a85e76f2274479853cdf388"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.DSPGraphModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.DSPGraphModule.dll",
                       "Sha256":  "1df8f952db9d1ca4f335ac6ae497aed130031f69850ad49772b064f4ef1005ce"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.DSPGraphModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.DSPGraphModule.pdb",
                       "Sha256":  "8ba1b8e85759912fb9dadf2f6001fd55e96f578d271e99d8e5b6b99c09b21379"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GameCenterModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GameCenterModule.dll",
                       "Sha256":  "2f9e0055aaa3c9f02e9e0b46f4ea9a0c6b72473f2018d34f029599351d7db223"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GameCenterModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GameCenterModule.pdb",
                       "Sha256":  "3886d7a5ae2bbcf870e93b22726f32aeef5aef4294a61ff156d10de05fca3438"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GIModule.dll",
                       "Sha256":  "ae47aec96820796202fa6d65116e1bf486c6350212a5327329b61530f951313c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GIModule.pdb",
                       "Sha256":  "ba18ac10bbb62365b90b9a2010b7af0cb24cbe62613931d7fb0d5011ab87430e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
                       "Sha256":  "8eb0e41395ce03f3038d8c9dacf1ed5f72a4f6345556419b59cde2367ce44519"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.pdb",
                       "Sha256":  "fdc12b8d3f0f37e900f8956de6d9878c985742c2d27b4865355d83b35cf679a5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GridModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GridModule.dll",
                       "Sha256":  "b15093a50e61728799d66211bc16fc2f39eb4ae11fa4396a953ce65a275ac513"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.GridModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.GridModule.pdb",
                       "Sha256":  "9807341c7177fbe043bae1f2f2b1d7b3e63a04ad37e4edf0510f669eb9e448f0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
                       "Sha256":  "267f10c017c57a6149d6fcd992619d0c4d0996a7ccba5b142c54675194c40088"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HierarchyCoreModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HierarchyCoreModule.pdb",
                       "Sha256":  "c239d75f227f88bba40517fd2730662edab69931d2d8a4f9f4f6e6a4992f5b65"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HierarchyModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HierarchyModule.dll",
                       "Sha256":  "d9d0ce30ddddbbd58b7e5d35cfe9aae31a2696cbf30799867114aa564cbab413"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HierarchyModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HierarchyModule.pdb",
                       "Sha256":  "fa5f08a582b0b82c056e1f5d59a22dfa625df51b3bf0de3b074f34e6cf9800df"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HotReloadModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HotReloadModule.dll",
                       "Sha256":  "36a69212f2ec7de2a9ead60efb45d9d41ab7d6d6ff022495f41b08f41b794090"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.HotReloadModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.HotReloadModule.pdb",
                       "Sha256":  "f297d9bc4db7e9b74d866d6ac171200e0cebc89b0348381e86c01ff3c4904179"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.IdentifiersModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.IdentifiersModule.dll",
                       "Sha256":  "24f6079a5784a34e3542a24e75c4797beaf05eefac10ad6a9ce51b1060670b14"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.IdentifiersModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.IdentifiersModule.pdb",
                       "Sha256":  "9bd91bbca109c2d203672ec2b87d30c0cf7a1eb3813b8cd3ca86e9fcb8ed5b09"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ImageConversionModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ImageConversionModule.dll",
                       "Sha256":  "5bfe8d3909b3e19667c9fe87b74f853626a07da4cfc7081d3f9a4c0b2f714a7d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ImageConversionModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ImageConversionModule.pdb",
                       "Sha256":  "0e5c809d0670c074d75d42bd3bc2a9d461b3761c2b1cc43ad1f32792140bdf1b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.IMGUIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.IMGUIModule.dll",
                       "Sha256":  "23939f7ec537a8ba39bae27d813c3d357b5a993a385b9ed5be3d9ee647c201d7"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.IMGUIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.IMGUIModule.pdb",
                       "Sha256":  "011737fb52fc31c6b32054a0e5c70f0b5c1cbd797b7b46e38f34940fca807965"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputForUIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputForUIModule.dll",
                       "Sha256":  "a96d58dc8298561f7ace0e111b39fcaea2ce3c6ad43972c9861c2af4f54e4deb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputForUIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputForUIModule.pdb",
                       "Sha256":  "9ac8eac55ee806c607b0202a59162fb9ce1c860f4ea777edb91b0fe8533583f1"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputLegacyModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputLegacyModule.dll",
                       "Sha256":  "fba3475724b6145fbd8f7536f6e168f73b53eadb6d020573d188a72f7d2ebaea"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputLegacyModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputLegacyModule.pdb",
                       "Sha256":  "8e5a27bc560d33368fc6b584e8ceff57ad16720c592c636ec4b7435b8e0aa7a3"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputModule.dll",
                       "Sha256":  "604bfd30df7bd0837997e4631bf1c46b61ce42e5608f16bcd2238c26372368dd"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InputModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InputModule.pdb",
                       "Sha256":  "d1efab87e62131602568d46cf328473134651a761aacc3cda6862e652c1ab404"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InsightsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InsightsModule.dll",
                       "Sha256":  "addef5fc71a621a2e320792f90c00ec33591344e01a6df3204dd1e0fc9f97c5b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.InsightsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.InsightsModule.pdb",
                       "Sha256":  "cdc60de69e93caab4ee8582047dbd1bd04c850644df6bad1fdfca3b3cfd34834"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.JSONSerializeModule.dll",
                       "Sha256":  "94cbba1c7cd25b841d7475898cd727c9b304e31d794182cf4bc935eef2e63201"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.JSONSerializeModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.JSONSerializeModule.pdb",
                       "Sha256":  "f01b699ca48fc775afab576ab7b41098ec40f962530d9ef72fa51e970d96a4a4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.LocalizationModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.LocalizationModule.dll",
                       "Sha256":  "2c5614f3522a0aa89892e574bd6761d6151570b0828558722d30cf8120d1c80c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.LocalizationModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.LocalizationModule.pdb",
                       "Sha256":  "3b02558971305078eda7a614aa8d4bb17d2d6038ad5d9bd3d9b97f66358011b8"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.MarshallingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.MarshallingModule.dll",
                       "Sha256":  "e576e605efb98a71641794db089fabf57af6e7661c7bb792dc8dfd83376b0835"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.MarshallingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.MarshallingModule.pdb",
                       "Sha256":  "91349aa516d5286a62b42e26021898ed69e7118bc50878c2a3383e40dd104ec0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.MultiplayerModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.MultiplayerModule.dll",
                       "Sha256":  "a6d411a7c30a53894b8ee9a495d1e0660bedf219b1370b5119193c3f995160cb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.MultiplayerModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.MultiplayerModule.pdb",
                       "Sha256":  "a67b97e1fffecf65092cd0c730f0b01e35d36ce9d242452f92251857e4152edb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.NVIDIAModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.NVIDIAModule.dll",
                       "Sha256":  "6c6f84a5bd5adeaada571b51eca8356f66b03a78d09389940ec8d0704a444d84"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.NVIDIAModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.NVIDIAModule.pdb",
                       "Sha256":  "fc9caf01b388b3f2e6a7f8fd53c04fa8425223bb375919bbb6a87496bc0281e6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ParticleSystemModule.dll",
                       "Sha256":  "6a6943130632ddce872226c744b69fd3c0cd68676ab2f4f6e2fbc038de38b4fc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ParticleSystemModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ParticleSystemModule.pdb",
                       "Sha256":  "102f3722b14ffe08dc9a45e20c58797f4328166409ac9221111fa985937652b5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.pdb",
                       "Sha256":  "1d10fb6070b79c54d7f74af7ec683d8be367bb7ac0585c361125d36dd0babc82"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
                       "Sha256":  "8db72717dcd3967393d4754d5a44753f6c0dec35591cf971fc2ac37413631f87"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PerformanceReportingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PerformanceReportingModule.pdb",
                       "Sha256":  "73118269e7b3a06e2450146c6597e76f8e6cd8e713b63d5c69e06117f53f62a3"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.Physics2DModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.Physics2DModule.dll",
                       "Sha256":  "716b2d55735dd04d16a038f699411316226811feec931c1c75cb1923e4d410a0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.Physics2DModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.Physics2DModule.pdb",
                       "Sha256":  "f1e05c2da07a5c7d8ca603b3824e174d0e59b49c52ae85e46496d6d6a4591bea"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
                       "Sha256":  "b50cab249a857be2a925d993244b4f0e5afe98ec9e994e94bbd6f249e395a764"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.pdb",
                       "Sha256":  "56bebc7152487f6e9afa87a7f7b9ce16f82dc12697c1f8a8388fc45c5581ed1d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PhysicsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PhysicsModule.dll",
                       "Sha256":  "1afae0b3b90866289c1cbfa836129b4365fb7ee248dec07b3d39ee9af38d875a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PhysicsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PhysicsModule.pdb",
                       "Sha256":  "0cb48883805cdf276ce360d654e05612f8e6e8356d8bdf8a840450153185c0f4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PropertiesModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PropertiesModule.dll",
                       "Sha256":  "34362f9b54ff638265eddc2e71250a0e44c86776bc6ba3ee91044db1feb8c27f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.PropertiesModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.PropertiesModule.pdb",
                       "Sha256":  "9c98d3235d761f0e66dc7193d95be62c50cd1e42ae4f1a83203132cbf65047c9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.RenderAs2DModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.RenderAs2DModule.dll",
                       "Sha256":  "e2ed4d101a38b232c46721264f8c03f4da30ae31a3d1119e447b57e53dfb9a1f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.RenderAs2DModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.RenderAs2DModule.pdb",
                       "Sha256":  "cf5e0ae06d8c6042e8d0ab6ffbee490f139f4ef841b5b5d9dd6d13ee30990868"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
                       "Sha256":  "59de33a9a64a7e7cc13c89e9692da62288f3d3aff2dde81876ad416308b2737e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb",
                       "Sha256":  "710057d60bde436e8c0f13b4a4e4150f1edcada8c1533fd9bd34ef7e220c9ea4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
                       "Sha256":  "5d9a47823dcffa22ec2503ce622b3a125d8fa1a83a5d4bc73f2b678d1a00d07c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ScreenCaptureModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ScreenCaptureModule.pdb",
                       "Sha256":  "313455e6faff86693762540174ceb2ec520825f97fc2f41f7e8dd4c8b3467c64"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ShaderRuntimeModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ShaderRuntimeModule.dll",
                       "Sha256":  "e4e6df937ceec04a451734255fd1b902b5526ca6d48fe547d74de727ce4a9b7b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ShaderRuntimeModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ShaderRuntimeModule.pdb",
                       "Sha256":  "f7527dbd4d857af50a2ed2432211be174b85bf3a67ad263fb0be3111a0fbe802"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
                       "Sha256":  "f1a1d46e6dbecd8a54c34f99ee578e77fabb6279fb769b33fcd1c2e6e1a3a55f"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.pdb",
                       "Sha256":  "3d876dd100e146af32d779eb7f2041305ab2c3e95c5fb55b1f1a85359bd16721"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SharedInternalsModule.dll",
                       "Sha256":  "69154505678c8adaa6e1a8f78374364288e8d2c4e9d00886503da19fde2510bc"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SharedInternalsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SharedInternalsModule.pdb",
                       "Sha256":  "6e7c17a8cf1e6dab8f8e1f032075f28d5b6667e7facb4cd9198edbdecd6679a5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SpriteMaskModule.dll",
                       "Sha256":  "ac342e2e16b7f9ce9382bb99129cefed12c4642a9b2bac2beb6c6b382ffef230"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SpriteMaskModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SpriteMaskModule.pdb",
                       "Sha256":  "cc553addb20ccd8bcbbe7718453bb1992e9395b228e3751763cd526cc9e86cce"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SpriteShapeModule.dll",
                       "Sha256":  "1d5fbc88a4f3563bb1c80fbb68309f2eddc0d75b18e12ba36d81dc895a5a6313"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SpriteShapeModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SpriteShapeModule.pdb",
                       "Sha256":  "fffd3d0aa144d81571ea709523453e65ecb39a6e8c79d3af6b16af7b994c158c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.StreamingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.StreamingModule.dll",
                       "Sha256":  "faf456c2f0c630e212c129ae07d9d687c495acaab574acd2b8607979948b8b08"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.StreamingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.StreamingModule.pdb",
                       "Sha256":  "f1b8d50d9cf5a19a5fec66a875bcbc3094ae00afc6937af41e4296ff6137ae06"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SubstanceModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SubstanceModule.dll",
                       "Sha256":  "69e5263e8a7c62201ea0e68eb1c3f2c10cdca6aa324cd8cd431c2bac6dae8e1a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SubstanceModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SubstanceModule.pdb",
                       "Sha256":  "58d970cdcbf0225db6f9b8b7bcd90f7b98b87468bf412848219a64b3b2a2d952"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SubsystemsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SubsystemsModule.dll",
                       "Sha256":  "dfddb7c72aa26dfecf2640217ca3f0947bad4bdf09744d4f8d5c76df5bb97898"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.SubsystemsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.SubsystemsModule.pdb",
                       "Sha256":  "17ecc96b843795a5910480515bf150d416afdd06586591c82a3fde21446e3995"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TerrainModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TerrainModule.dll",
                       "Sha256":  "ed20d62eeb3437b39c9d15278314f782124298bb51c0f6137720d82bb4179e44"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TerrainModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TerrainModule.pdb",
                       "Sha256":  "215182acdccc093772ab3b91520fe14e8f1cf7ca6def498b4c7a43ca52822588"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
                       "Sha256":  "30b507f947433778da0a5e714b484754c7737b3fdce768a573ff2ee2645f07a4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb",
                       "Sha256":  "511d49b3062ac08cc4a0cd1b87f1f278e1248126b530cd2dd6355b7889562a7e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
                       "Sha256":  "1f5a064cd89b1cb9a38ff15874e3718ce39ee84d4e0a196026ab62e991fb183e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
                       "Sha256":  "b8d7c7a63c0afdccaa9bdaf5325e38b25db14c0453479b77fce7fb28142d36f5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
                       "Sha256":  "7714703a60c7f65b48cc0dc9484081e4ad4ae812212674408e451832f596f9fb"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
                       "Sha256":  "48044fcb29f5b21abb04138b1a62845d09056af1014844c93e444fd2d7609cd1"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextRenderingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextRenderingModule.dll",
                       "Sha256":  "eabdb9a94f1174c38b3b53eb3cd5ba2dc69f4137016054828ce6331de8620c4e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TextRenderingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TextRenderingModule.pdb",
                       "Sha256":  "19a2e6a0724835f6da6743c19811fbb35273e8003242f737a762ded27fb8e99b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TilemapModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TilemapModule.dll",
                       "Sha256":  "f2f84d8529c5a875f945c7137ebf4063fed3cc998880c56b7ebba7ed2efe81b8"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TilemapModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TilemapModule.pdb",
                       "Sha256":  "64593785728471b7fa1683c324702dd3d52af1f472a33db810622fd1f719c142"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TLSModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TLSModule.dll",
                       "Sha256":  "20eb67e37ba377163b5fede60ba1363bb40e0f37e0176470ef37fd5b14ce0dd1"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.TLSModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.TLSModule.pdb",
                       "Sha256":  "18b0dea60623941c2646284adfdaced2cf544c1647a9d88bf2d5a9e90b4ef6f6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UI.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UI.dll",
                       "Sha256":  "4f00c66dc0cbe68193f3a9a21914dc6f00c55ccdf9e09af978ec50e8780213a6"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UI.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UI.pdb",
                       "Sha256":  "2f4a0b0517af564902dce2d2caab7aec736ff44bc177aab15f259d1dbcdaa1b0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UIElementsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UIElementsModule.dll",
                       "Sha256":  "a911f963c078bc0f5bdcc679e2561065011a75c0e37f5d00c26496d32f02aa15"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UIElementsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UIElementsModule.pdb",
                       "Sha256":  "274e4c79044bfc010b205eed63777c2473521c4ce5ae519916a027bc477aedf8"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UIModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UIModule.dll",
                       "Sha256":  "bf3c3a2c65045dd8eb73379d4edfe80aacdc4838232a94d5b91df1719c0fc406"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UIModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UIModule.pdb",
                       "Sha256":  "e0efac3eb7aac36130a5ee8e05c21a0b978fb1c779694984cdab9c671222a831"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UmbraModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UmbraModule.dll",
                       "Sha256":  "af2f99787de98569cd1a59e8c6f1286b72b86307755db229fdea4ce6a1518c32"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UmbraModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UmbraModule.pdb",
                       "Sha256":  "f39f1e90b50359a25cd7e98d5c33857b795bd6d9004a6a8a6d4cf55e84f200b0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
                       "Sha256":  "498813c9acf8f39e4928380bb8b3c77a0b523c729ecb73f4136d89ceebce8741"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb",
                       "Sha256":  "473c2e0438fefef9cde8f48165c775991a00abe4f8ddb678a3616060d25ab648"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
                       "Sha256":  "497aee4d26b83627aa742d1a2ee8e09c86b4647ef262510e4a55eadabe602a62"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb",
                       "Sha256":  "f54fd166a99c8b5f72cb8a66a26ba051f0923d0af74b5004d91bb0bce5781b01"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityConnectModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityConnectModule.dll",
                       "Sha256":  "58f2364f5a9186c82106224d5d5b88c7ed2fc940a8366bf8c02d5c11f50a99ad"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityConnectModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityConnectModule.pdb",
                       "Sha256":  "39cf11013d094f54786169ee26d18de4724c847b3e0c4726c52671ccd0ed4073"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityConsentModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityConsentModule.dll",
                       "Sha256":  "5e0e921507180c1dfa7e06047201e6c01856fe27ec824f2b43d30901ada3784d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityConsentModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityConsentModule.pdb",
                       "Sha256":  "e78ac879b821799283cdd237bc94f159b9be02c825627c9f1042525df90fff36"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityCurlModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityCurlModule.dll",
                       "Sha256":  "46f872c0894347fba76592b1429a8d1a7aaec408b56487189237cc5f01c8df07"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityCurlModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityCurlModule.pdb",
                       "Sha256":  "a1f725823f417c506e58baf6b30ad45cb831466019ad6e73fb61d3946f213f1e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
                       "Sha256":  "568f32dd1481c09ad76363fbcf4da874299862e46342b6db3343cd3bfa59f00c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb",
                       "Sha256":  "309bed887814a256f8f2e7794b374bfca8bf9156689f5cd93a28a95922d9a89b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
                       "Sha256":  "0c6be464ed7daac70e99f926066dce29243fa8fc48750bc7850feeea62b7aae5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb",
                       "Sha256":  "ad9e7fe1da5032727cdefae41414858a90cdb36104d11a01ed93f4ce4bb3b222"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
                       "Sha256":  "352b4030c8bdaa5a672d0ce89c87baa1bafec2fdc2d9d4f29b1d989478b6156a"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
                       "Sha256":  "ea568371009c4f81487614beaa6ab945856ecc46adf87367a8df45ed4ea09e05"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
                       "Sha256":  "60d58008a4f93d6b493120f427578603ac94e15433e0a9dfa541c1de9287ba49"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb",
                       "Sha256":  "d9fd852d91212e61f4fe68fcfa78a593f02e26f5c92c72b557687bb2bd64ce6d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
                       "Sha256":  "be0457a8e97d7de937a934080989ef3a0b559394267d29733563fb83adffe7db"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb",
                       "Sha256":  "39715d31ccb300c1cf00fe346bc21e3c458d3bcf3cf150c250ca480c7f7be4a4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
                       "Sha256":  "aca5573476e8c744f898a5ed16e2fd6476358a56036cd43470fa65f98fa32984"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VectorGraphicsModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VectorGraphicsModule.pdb",
                       "Sha256":  "c955241e5604446e72bcccf6c57567541865d768a22ea725beca1cdee9ed7bce"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VehiclesModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VehiclesModule.dll",
                       "Sha256":  "502bf3e9d958509f90dc4dc63fbbfb88ef7548f419599538b886ae34bba47372"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VehiclesModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VehiclesModule.pdb",
                       "Sha256":  "c33843e721bf5c4da50d142e325cd5bc63d659bc9ff5c1f389600cca49c790e2"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VFXModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VFXModule.dll",
                       "Sha256":  "ac70142914bfeffdd52b07e27a0b20167c01b692a92abfc866a099df199ddeda"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VFXModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VFXModule.pdb",
                       "Sha256":  "72a26ad551fe6403af566cfcbc78730d8c1813e54816736d1f8707ac7b90cae9"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VideoModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VideoModule.dll",
                       "Sha256":  "55cd184e304c5e12811fcf99b89330c6318c6f1c08e59854dcd3084d9a0df606"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VideoModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VideoModule.pdb",
                       "Sha256":  "398a1029b0475a066bb920460394c38f86235c29891528762fb58b9392335c06"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
                       "Sha256":  "7ec1ee2f5aa33738b2cdb6abc961729c2514256565c09c606078a2b87870770e"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VirtualTexturingModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VirtualTexturingModule.pdb",
                       "Sha256":  "5ca3fa7b0453fa683f0c85eccfaea773b269892936978487744a97177cdc5324"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VRModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VRModule.dll",
                       "Sha256":  "94ad4cc70747a097c8a4a425edd518b0f97db2ab879bd9156bfd98e852b04bfe"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.VRModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.VRModule.pdb",
                       "Sha256":  "4962f1740ae1f6f8e955216b963609ca03c10a2edb187b5b0bcdbbf4486a8184"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.WindModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.WindModule.dll",
                       "Sha256":  "d6490d31bc2f7435ea8b9d3648e287c1eb7d63f8114431438383604c70604186"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.WindModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.WindModule.pdb",
                       "Sha256":  "63cb15d1d38482b05ce9b8db1673d3bc39578216fac509b2409f63ea955da992"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.XRModule.dll",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.XRModule.dll",
                       "Sha256":  "b802eb69d30f926fcdc184e890fca465686dbf5b91a646caa15ea811a459faf5"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityEngine.XRModule.pdb",
+                      "Path":  "Amedy_Data/Managed/UnityEngine.XRModule.pdb",
                       "Sha256":  "523b13447671b912717e6eb8f38ee9961ab5ef8487f8c884cccea0dc59707ecd"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityPipeline.Microsoft.CodeAnalysis.CSharp.dll",
+                      "Path":  "Amedy_Data/Managed/UnityPipeline.Microsoft.CodeAnalysis.CSharp.dll",
                       "Sha256":  "6ca7115fb0256a4d415a73fe7e264d23c89d6d4019ac463fe519bc9097fbdf9b"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityPipeline.Microsoft.CodeAnalysis.dll",
+                      "Path":  "Amedy_Data/Managed/UnityPipeline.Microsoft.CodeAnalysis.dll",
                       "Sha256":  "83836addf8d51df5d6d8cff3c43c1663655bdd85eb539b44a56dcd96ff2297a0"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityPipeline.System.Collections.Immutable.dll",
+                      "Path":  "Amedy_Data/Managed/UnityPipeline.System.Collections.Immutable.dll",
                       "Sha256":  "fb05543596e537d7a4383c7330b181cf31151e985578c57a8b5eef00c6c8a460"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityPipeline.System.Reflection.Metadata.dll",
+                      "Path":  "Amedy_Data/Managed/UnityPipeline.System.Reflection.Metadata.dll",
                       "Sha256":  "3de473fbc3e3e01eef020cb82cb6a3eb288959e24e65175182a818c9d09dbe01"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/UnityPipeline.System.Runtime.CompilerServices.Unsafe.dll",
+                      "Path":  "Amedy_Data/Managed/UnityPipeline.System.Runtime.CompilerServices.Unsafe.dll",
                       "Sha256":  "6f2becafbd15867d52bfad08f77a23d26c818e55473d6347aef41130572f14f7"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/VContainer.dll",
+                      "Path":  "Amedy_Data/Managed/VContainer.dll",
                       "Sha256":  "4f81ab678b9e5dcfc46ebb69bca39afe4bb74054f1574fcfeaa8248dfb8a20ee"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Managed/VContainer.pdb",
+                      "Path":  "Amedy_Data/Managed/VContainer.pdb",
                       "Sha256":  "4b828c3aae481f5603d11ea024c84afe0237fb1d985c42430c97c52111bb4a2c"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Plugins/Steamworks.NET.txt",
+                      "Path":  "Amedy_Data/Plugins/Steamworks.NET.txt",
                       "Sha256":  "93ffb9230e36e29b3757f39bf3c3c34fa84c1a602cfc13dcfac3a3253ad85534"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Plugins/x86_64/libonigwrap.dll",
+                      "Path":  "Amedy_Data/Plugins/x86_64/libonigwrap.dll",
                       "Sha256":  "6d539f2ad6e1b58d3c8836b9c3a1d50c97cbd7a6ca0c5de25d994a7c4b1ecf42"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Plugins/x86_64/lib_burst_generated.dll",
+                      "Path":  "Amedy_Data/Plugins/x86_64/lib_burst_generated.dll",
                       "Sha256":  "828ab8d4aec427fb0a4fdd7508f1470e0bd01e05280b2d835c5236192db9c6b2"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Plugins/x86_64/lib_burst_generated.pdb",
+                      "Path":  "Amedy_Data/Plugins/x86_64/lib_burst_generated.pdb",
                       "Sha256":  "2267e132289cbbd3cde7f79f73333426f01c49d14cc1a5ddd3b5aa55589bc58d"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Plugins/x86_64/steam_api64.dll",
+                      "Path":  "Amedy_Data/Plugins/x86_64/steam_api64.dll",
                       "Sha256":  "eb17909a76668cf9ae0b92a618a34a50f6c73d3a6787cb4dd8ce36a8b10bfb75"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Resources/unity default resources",
+                      "Path":  "Amedy_Data/Resources/unity default resources",
                       "Sha256":  "fb2492cd1ad7c38dda8a4ce5f1a1fb57edcff44e3ae250b263e44beae3660ec4"
                   },
                   {
-                      "Path":  "Amedy_Rework_Data/Resources/unity_builtin_extra",
+                      "Path":  "Amedy_Data/Resources/unity_builtin_extra",
                       "Sha256":  "febfa16bcc30a234242be5308154bf1c54b3af9197d4b3b9083bfcd2b291c8bb"
                   },
                   {
